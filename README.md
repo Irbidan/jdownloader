@@ -1,4 +1,6 @@
 # jdownloader-mirror
 A read-only mirror of the jDownloader SVN
 
-I won't accept any issues or pull-requests.
+Synced every 15 Minutes
+
+I won't accept any pull-requests.
