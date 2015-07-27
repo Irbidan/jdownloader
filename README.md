@@ -1,4 +1,4 @@
-# jdownloader-mirror
+# jdownloader
 A read-only mirror of the jDownloader SVN
 
 Synced every 15 Minutes
